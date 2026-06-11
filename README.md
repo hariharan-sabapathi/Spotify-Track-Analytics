@@ -138,22 +138,24 @@ The following classification models were evaluated:
 ---
 
 ## Project Structure
-
-```bash
+```
+Spotify-Track-Analytics/
+│
 ├── data/
-│   └── 70s
-│   └── 80s
-│   └── dataset-of-00s
+│   ├── 70s/
+│   ├── 80s/
+│   ├── dataset-of-00s/
+│   ├── dataset-of-10s/
+│   ├── dataset-of-60s-selected-columns/
+│   ├── dataset-of-90s/
 │   └── spotify_all_combined.xlsx
-│   └── dataset-of-10s
-│   └── dataset-of-60s-selected-columns
-│   └── dataset-of-90s
+│
 ├── spotify_all_combined.xlsx
+│
 ├── notebook/
 │   └── spotify_track_analysis.ipynb
+│
 └── README.md
-```
-
 ---
 
 ## Future Improvements
