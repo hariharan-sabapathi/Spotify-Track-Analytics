@@ -156,7 +156,7 @@ Spotify-Track-Analytics/
 │   └── spotify_track_analysis.ipynb
 │
 └── README.md
----
+```
 
 ## Future Improvements
 
