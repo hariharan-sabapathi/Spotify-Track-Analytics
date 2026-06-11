@@ -142,12 +142,12 @@ The following classification models were evaluated:
 Spotify-Track-Analytics/
 │
 ├── data/
-│   ├── 70s/
-│   ├── 80s/
-│   ├── dataset-of-00s/
-│   ├── dataset-of-10s/
-│   ├── dataset-of-60s-selected-columns/
-│   ├── dataset-of-90s/
+│   ├── 70s.csv
+│   ├── 80s.csv
+│   ├── dataset-of-00s.csv
+│   ├── dataset-of-10s.csv
+│   ├── dataset-of-60s-selected-columns.csv
+│   ├── dataset-of-90s.csv
 │   └── spotify_all_combined.xlsx
 │
 ├── spotify_all_combined.xlsx
