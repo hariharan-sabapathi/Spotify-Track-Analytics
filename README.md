@@ -153,7 +153,7 @@ Spotify-Track-Analytics/
 ├── spotify_all_combined.xlsx
 │
 ├── notebook/
-│   └── spotify_track_analysis.ipynb
+│   └── spotify_track_analytics.ipynb
 │
 └── README.md
 ```
